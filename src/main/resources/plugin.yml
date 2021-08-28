@@ -1,4 +1,7 @@
-name: AntiElytraLagg
-version: ${project.version}
+name: AntiElytraLag
+version: 2.3
 main: theforgtn.Main
 api-version: 1.17
+commands:
+  ael:
+    description: plugin version
